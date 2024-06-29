@@ -121,7 +121,7 @@ If you later want to see which migrations are yet to be applied you can also exc
 $ models migrate info
 ```
 Applied migrations need to be reverted before they can be deleted. 
-## Avaibale Attributes
+## Available Attributes
 ### primary_key
 It's used to mark the primary key fo the table. 
 ```rust
